@@ -1,0 +1,16 @@
+Package: polyread
+Title: Read Polygon Filter File Format (.poly) files
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Andrea",
+           family = "Gilardi",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "0000-0002-9424-7439"))
+Description: Read Polygon Filter File Format (.poly) files and convert them 
+    to sfc format. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
