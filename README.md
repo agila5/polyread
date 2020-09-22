@@ -22,8 +22,7 @@ and convert them to
 You can install the development version of `polyread` with:
 
 ``` r
-remotes::install_github()
-install.packages("polyread")
+remotes::install_github("agila5/polyread")
 ```
 
 ## Example

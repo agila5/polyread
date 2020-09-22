@@ -27,8 +27,7 @@ The goal of polyread is to read Polygon Filter File Format (`.poly`) files (whic
 You can install the development version of `polyread` with:
 
 ```{r, eval = FALSE}
-remotes::install_github()
-install.packages("polyread")
+remotes::install_github("agila5/polyread")
 ```
 
 ## Example
